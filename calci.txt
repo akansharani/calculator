@@ -71,6 +71,5 @@ class Awt implements ActionListener
 	public static void main(String args[])
 	{
 		Awt a=new Awt();
-		a.awt1();
-	}
+		a.awt1();}
 }
